@@ -1,0 +1,12 @@
+[33m6c7a484[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{0}: reset: moving to 6c7a48495259454275c3d24116751649fe64bac6
+[33m2c077da[m HEAD@{1}: revert: Revert "Laravel blog"
+[33m6c7a484[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{2}: reset: moving to 6c7a48495259454275c3d24116751649fe64bac6
+[33m213f790[m HEAD@{3}: revert: Revert "Laravel blog"
+[33m6c7a484[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{4}: rebase (finish): returning to refs/heads/master
+[33m6c7a484[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{5}: rebase (start): checkout 6c7a48495259454275c3d24116751649fe64bac6
+[33m36b0444[m HEAD@{6}: rebase (continue) (finish): returning to refs/heads/master
+[33m36b0444[m HEAD@{7}: rebase (continue): Initial commit
+[33m6c7a484[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{8}: rebase (start): checkout 6c7a48495259454275c3d24116751649fe64bac6
+[33mcfaacbd[m HEAD@{9}: commit: Initial commit
+[33m131c6b1[m HEAD@{10}: commit: Index edit
+[33m6c7a484[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{11}: commit (initial): Laravel blog
