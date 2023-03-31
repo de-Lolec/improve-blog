@@ -14,7 +14,7 @@
                 <p class="blog-post-meta text-muted text-start mb-3">{{ $item->published_at ? \Carbon\Carbon::parse($item->published_at)->format('d.m.Y') : '' }}
 
                 <div class="d-flex justify-content-center mb-3">
-                    <img src="http://laravella/image/{{ $item->image }}" alt="" class="img-fluid" style="object-fit: cover; width: 100%; height: 100%;
+                    <img src="/image/{{ $item->image }}" alt="" class="img-fluid" style="object-fit: cover; width: 100%; height: 100%;
                     max-height: 700px; min-height: 400px; max-width: 700px; min-width: 400px;">
                 </div>
                 <p class="lead mb-5 word-wrap">{{ $item->content_raw }}</p>

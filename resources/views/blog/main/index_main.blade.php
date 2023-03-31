@@ -15,7 +15,7 @@
                                         class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-static">
                                         <div class="col-md-4 d-none d-md-block">
                                             @if($post->image)
-                                                <img src="http://laravella/image/{{ $post->image }}" alt=""
+                                                <img src="/image/{{ $post->image }}" alt=""
                                                      class="img-fluid"
                                                      style="object-fit: cover; width: 100%; height: 100%; max-height: 238px; min-height: 238px; max-width: 320px; min-width: 320px;">
                                             @endif
